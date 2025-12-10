@@ -4,3 +4,4 @@ spug_api/spug/overrides.py
 spug_web/build/
 spug_web/*.tar.gz
 spug_api/python/
+spug_web/wget-log
