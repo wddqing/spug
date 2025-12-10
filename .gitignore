@@ -1,3 +1,5 @@
 /.idea/
 venv/
 spug_api/spug/overrides.py
+spug_web/build/
+spug_web/*.tar.gz
